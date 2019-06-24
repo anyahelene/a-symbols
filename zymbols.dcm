@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2816
+D 2K x 8 Electrically Erasable ROM, DIP-24/SOIC-24
+K Parallel EEPROM 2Kb
+F https://www.datasheetarchive.com/pdf/download.php?id=04806e5a84686fd4c8140e55b3599503251d3c&type=M&term=XLS2816
+$ENDCMP
+#
+$CMP 6116
+D 2K x 8 Static RAM, DIP-24/SOIC-24
+K Parallel SRAM 2Kb
+F http://web.mit.edu/6.115/www/document/6116.pdf
+$ENDCMP
+#
+$CMP 62256
+D 32K x 8 Static RAM, DIP-28/SOIC-28
+K Parallel SRAM 32Kb
+F http://www.6502.org/users/alexis/62256.pdf
+$ENDCMP
+#
+$CMP TIL305
+D TIL305 5x7 Alphanumeric LED Display
+F http://www.decodesystems.com/TIL305.pdf
+$ENDCMP
+#
+$CMP TPS63000DRC
+D TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches
+K boost step-up DC/DC synchronous
+F http://www.ti.com/lit/ds/symlink/tps63002.pdf
+$ENDCMP
+#
+#End Doc Library
